@@ -15,7 +15,7 @@ mtlb_axis([-5,5,0,2]);
 
 //unit step
 t2 = -5:1:5;
-y2a = [zeros(1,6),ones(1,5)];
+//y2a = [zeros(1,6),ones(1,5)];
 y2b = [zeros(1,5),ones(1,6)];
 subplot(3,3,2);
 //plot(t2,y2a);
